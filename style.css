@@ -1,0 +1,27 @@
+#video{
+    width: 100%;
+    z-index: 0;
+}
+.prayer{
+    line-height: 1.8; 
+    font-size: xx-large;
+}
+
+.vid-container{
+    position: relative;
+}
+.reading{
+    position: absolute;
+    text-align: center;
+    overflow: scroll;
+    background-color: rgba(250, 235, 215, 0.336);
+    width: 100%;
+    bottom: 0;
+    right: 0;
+    height: 30%;
+    
+}
+iframe{
+    width: 100%;
+    height: 100%;
+}
