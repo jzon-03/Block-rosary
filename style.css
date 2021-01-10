@@ -45,7 +45,7 @@ div.letmelive-main{
 div.lyrics{
     position: absolute;
     background-color: rgba(234, 255, 231, 0.534);
-    height: 100vh;
+    height: 100%;
     width: 400px;
     bottom: 0;
     right: 0;
