@@ -9,6 +9,7 @@
 
 .vid-container{
     position: relative;
+    text-align: center;
 }
 .reading{
     position: absolute;
