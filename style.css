@@ -46,10 +46,10 @@ div.lyrics{
     position: absolute;
     background-color: rgba(234, 255, 231, 0.534);
     height: 100%;
-    width: 400px;
+    width: 200px;
     bottom: 0;
     right: 0;
     overflow: auto;
     font-weight: bold;
-    font-size: large;
+    font-size: small;
 }
