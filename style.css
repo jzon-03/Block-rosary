@@ -11,6 +11,11 @@
     position: relative;
     text-align: center;
 }
+
+iframe{
+    width: 100%;
+    
+}
 .reading{
     position: absolute;
     text-align: center;
