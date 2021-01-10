@@ -1,5 +1,5 @@
 #video{
-    width:450px;
+    object-fit:fill;
     z-index: 0;
 }
 .prayer{
